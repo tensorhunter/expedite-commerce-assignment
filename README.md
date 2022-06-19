@@ -7,11 +7,11 @@
 
 ### Checklist of the Tasks done Under this Repository
 
-- [x] ML Development and Training
-- [x] Deploy a Real-time Inference Endpoint on AmazonSageMaker
-- [x] Serverless Development of the Model
-- [x] Lambda and IAM role Infratructure deployment
-- [x] Inspect the performance in cloudwatch. 
+- [ ] ML Development and Training
+- [ ] Deploy a Real-time Inference Endpoint on AmazonSageMaker
+- [ ] Serverless Development of the Model
+- [ ] Lambda and IAM role Infratructure deployment
+- [ ] Inspect the performance in cloudwatch. 
 - [ ] Design Document
 - [ ] Alternatives / Other Possible Architecture Design
 
