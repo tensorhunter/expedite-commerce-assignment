@@ -15,11 +15,11 @@ variable "model_name" {
 }
 
 variable "image" {
-  default = "305705277353.dkr.ecr.us-east-1.amazonaws.com/decision-trees-sample:latest"
+  default = "763104351884.dkr.ecr.ap-northeast-1.amazonaws.com/huggingface-pytorch-inference:1.10.2-transformers4.17.0-cpu-py38-ubuntu20.04"
 }
 
 variable "model_data_url" {
-  default = "s3://sagemaker-ap-northeast-1-394436824645/nodels/model.tar.gz"
+  default = "s3://sagemaker-ap-northeast-1-394436824645/opt/ml/model/model.tar.gz"
 }
 
 variable "endpoint_config_name" {
